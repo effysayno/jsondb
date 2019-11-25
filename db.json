@@ -7,31 +7,6 @@
 {"id":"2","username":"admin","email":"effysayno@gmail.com","password":"$2y$10$qg.8niHM\/bjudHfCMALGeOz6XpvvrtLvT4W8bxJh2zBb3yMceQwGa","role_id":"1","is_active":"1","is_super_admin":"1"}
 ]
 }
-,{"type":"table","name":"orders","database":"postervdom","data":
-[
-{"id":"1","email":"effysayno@gmail.com","phone":"+7 (903) 472-15-99","fio":"Аршаков Артем","address":"г. Москва, ул. Победы, д. 68","sum":"4750","link":"\/shop\/modul\/1311?size=2&type=4&modul=7&fmodul=15","count":"1","status":"1","date_create":"2019-10-03 00:00:00","date_update":"2019-10-04 00:00:00"},
-{"id":"2","email":"et-suicid@yandex.ru","phone":"+7 (988) 890-14-13","fio":"Иванов Алексей","address":"г. Москва, ул. Мира, д. 12","sum":"5677","link":"\/shop\/artpost\/15141\/?type=2&size=12&math=13","count":"1","status":"2","date_create":"2019-10-04 00:00:00","date_update":"2019-10-04 00:00:00"},
-{"id":"3","email":"et-suicid@bk.ru","phone":"+7 (903) 877-12-11","fio":"Бурдуков Артем","address":"г. Москва, ул. Береговая, д. 11","sum":"1320","link":"\/shop\/modul\/524?size=2&type=4&modul=7&fmodul=15","count":"1","status":"2","date_create":"2019-10-01 00:00:00","date_update":"2019-10-04 00:00:00"},
-{"id":"6","email":"et-suicid@yandex.ru","phone":"+7 (988) 890-14-13","fio":"Иванов Алексей","address":"г. Москва, ул. Мира, д. 12","sum":"1310","link":"\/shop\/photoposter\/13478?type=2&size=12&math=13","count":"1","status":"3","date_create":"2019-10-01 00:00:00","date_update":"2019-10-04 00:00:00"},
-{"id":"7","email":"et-suicid@bk.ru","phone":"+7 (903) 877-12-11","fio":"Бурдуков Артем","address":"г. Москва, ул. Береговая, д. 11","sum":"2430","link":"\/shop\/sticker\/1820?size=7&type=11&math=14","count":"1","status":"2","date_create":"2019-10-02 00:00:00","date_update":"2019-10-04 00:00:00"},
-{"id":"8","email":"loev@yandex.ru","phone":"+7 (988) 855-66-44","fio":"Лоев Андрей","address":"г. Москва, ул. Шолохова, д. 173","sum":"7600","link":"\/shop\/screen\/6779?type=13&size=32&math=14","count":"1","status":"1","date_create":"2019-09-25 00:00:00","date_update":"2019-10-04 00:00:00"},
-{"id":"9","email":"bratov@mail.ru","phone":"+7 (988) 732-89-97","fio":"Братов Сергей","address":"г. Москва, ул. Озерная, д. 172","sum":"5500","link":"\/shop\/clocks\/12555?type=17&size=23&math=15&clockface=37&cfcolor=45","count":"1","status":"4","date_create":"2019-09-24 00:00:00","date_update":"2019-10-04 00:00:00"}
-]
-}
-,{"type":"table","name":"orders_products","database":"postervdom","data":
-[
-
-]
-}
-,{"type":"table","name":"pages","database":"postervdom","data":
-[
-{"id":"2","title":"Дополнительные услуги предоставляемые компанией PosterVDom","description":"Дополнительные услуги, которые предоставляет компания PosterVDom, кроме продажи различного вида постеров и других изделий","keywords":"услуги PosterVDom, печать изображений, обрамление в багет","title_s":"Услуги","link":"services","description_s":null,"type":"services"},
-{"id":"3","title":"Постер в Дом - интернет магазин постеров, модульных картин","description":"Картинная галерея. Картины и постеры на заказ. Индивидуальный заказ картин и постеров","keywords":"картины, постеры, модульные картины, ширмы","title_s":"Добро пожаловать в магазин PosterVDom.ru","link":null,"description_s":"Если вы желаете подчеркнуть стиль и индивидуальность в вашем доме, то мы знаем, как вам в этом помочь. Мы занимаемся производством и продажей деталей интерьера, таких как: фотопостеры, ширмы, настенные часы и многое другое.","type":"main"},
-{"id":"8","title":"Отзывы о компании PosterVDom.ru","description":"Отзывы о деятельности и продукции компании PosterVDom. Люди пишут о компании и наших изделиях только хорошее","keywords":"отзывы PosterVDom, описание PosterVDom, отзывы модульные картины","title_s":"Отзывы","link":"otzyvy","description_s":null,"type":"reviews"},
-{"id":"9","title":"Информация о доставке - PosterVDom","description":"Информация о сроках и стоимости доставки","keywords":"доставка PosterVDom, адреса мастерских PosterVDom","title_s":"Доставка","link":"dostavka","description_s":"<p>Доставка по Москве и до 5 км от МКАД стоит 350 руб.<\/p>\n\n<p>Бесплатная доставка по Москве и в пределах МКАД при заказе от 5000 руб.<\/p>\n\n<p>Региональная доставка от 600 руб. в зависимости от региона, веса и габарита. Окончательная стоимость согласовывается с сотрудником.<\/p>\n\n<p>Также вы можете забрать свой заказ самостоятельно у нас в мастерской.<\/p>\n\n<p>Адрес: м. Варшавская, ул. Болотниковская, 11К1<\/p>\n","type":"pages"},
-{"id":"10","title":"Контакты компании - PosterVDom","description":"Контактная информация компании PosterVDom","keywords":"контакты PosterVDom, адрес PosterVDom, телефон PosterVDom","title_s":"Контактные данные","link":"contacts","description_s":"<p>Телефон:&nbsp;+7&nbsp;(495) 409-51-66<br \/>\nЭлектронная почта:&nbsp;<strong>masterbaget@bk.ru&nbsp;<\/strong><br \/>\nАдрес:&nbsp;г. Москва, ул. Болотниковская, 11К1<br \/>\n<strong>График работы:<\/strong>&nbsp;Пн-Пт с 10.00 до 19.00<\/p>\n\n<p>Вход со двора, второй подъезд, второй этаж, офис №2<br \/>\nНа охране сказать: в багетную мастерскую<br \/>\nСрок изготовления 3 дня&nbsp;<\/p>\n","type":"pages"}
-]
-}
 ,{"type":"table","name":"reviews","database":"postervdom","data":
 [
 {"id":"1","name":"Людмила","city":"г. Подольск","review":"Заказала ширму «Маленький волк» дочери в комнату.  Сегодня получила!  Качество, превзошло все ожидания! Дочь в восторге, я довольна! Спасибо огромное!!!!","date_create":"2019-10-04 18:15:51","status":"1"},

@@ -3,8 +3,8 @@
 {"type":"database","name":"postervdom"},
 {"type":"table","name":"admins","database":"postervdom","data":
 [
-{"id":"1","username":"admin","email":"admin@postervdom.ru","password":"$2y$10$CdfdIrQMMWdbgJpnMu1nW.AKodFP35iCDBErP7OtUsTo.2p7NXSZi","role_id":"1","is_active":"1","is_super_admin":"1"},
-{"id":"2","username":"admin","email":"effysayno@gmail.com","password":"$2y$10$qg.8niHM\/bjudHfCMALGeOz6XpvvrtLvT4W8bxJh2zBb3yMceQwGa","role_id":"1","is_active":"1","is_super_admin":"1"}
+{"id":"1","username":"admin","email":"admin@postervdom.ru","password":"1","role_id":"1","is_active":"1","is_super_admin":"1"},
+{"id":"2","username":"admin","email":"effysayno@gmail.com","password":"1","role_id":"1","is_active":"1","is_super_admin":"1"}
 ]
 }
 ,{"type":"table","name":"reviews","database":"postervdom","data":
